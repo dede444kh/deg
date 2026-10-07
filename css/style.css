@@ -4,7 +4,6 @@ html, body {
   height: 100%;
   overflow: hidden;
   background: #000;
-  touch-action: none;
 }
 #container {
   position: fixed;
@@ -12,13 +11,8 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: center;
-  overflow: hidden;
-}
-#container > div {
-  transform-origin: center center;
 }
 #container canvas {
   max-width: 100% !important;
   max-height: 100% !important;
-  object-fit: contain;
 }
