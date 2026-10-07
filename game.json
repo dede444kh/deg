@@ -1,0 +1,384 @@
+{
+	"width": 1280,
+	"height": 720,
+	"fps": 30,
+	"main": "./script/main.js",
+	"assets": {
+		"44": {
+			"type": "audio",
+			"path": "audio/44",
+			"systemId": "sound",
+			"duration": 1024,
+			"hint": {
+				"extensions": [
+					".aac",
+					".ogg"
+				]
+			}
+		},
+		"50": {
+			"type": "audio",
+			"path": "audio/50",
+			"systemId": "sound",
+			"duration": 1045,
+			"hint": {
+				"extensions": [
+					".aac",
+					".ogg"
+				]
+			}
+		},
+		"51": {
+			"type": "audio",
+			"path": "audio/51",
+			"systemId": "sound",
+			"duration": 1092,
+			"hint": {
+				"extensions": [
+					".aac",
+					".ogg"
+				]
+			}
+		},
+		"2323": {
+			"type": "image",
+			"path": "image/2323.png",
+			"width": 1280,
+			"height": 720
+		},
+		"2324": {
+			"type": "image",
+			"path": "image/2324.png",
+			"width": 1280,
+			"height": 720
+		},
+		"2325": {
+			"type": "image",
+			"path": "image/2325.png",
+			"width": 1280,
+			"height": 720
+		},
+		"3333": {
+			"type": "image",
+			"path": "image/3333.png",
+			"width": 1280,
+			"height": 720
+		},
+		"player": {
+			"type": "image",
+			"width": 32,
+			"height": 32,
+			"path": "image/player.png"
+		},
+		"shot": {
+			"type": "image",
+			"width": 16,
+			"height": 16,
+			"path": "image/shot.png"
+		},
+		"aaav": {
+			"type": "audio",
+			"path": "audio/aaav",
+			"systemId": "sound",
+			"duration": 10635,
+			"hint": {
+				"extensions": [
+					".aac",
+					".ogg"
+				]
+			}
+		},
+		"book": {
+			"type": "audio",
+			"path": "audio/book",
+			"systemId": "sound",
+			"duration": 2067,
+			"hint": {
+				"extensions": [
+					".aac",
+					".ogg"
+				]
+			}
+		},
+		"daon": {
+			"type": "audio",
+			"path": "audio/daon",
+			"systemId": "sound",
+			"duration": 1185,
+			"hint": {
+				"extensions": [
+					".aac",
+					".ogg"
+				]
+			}
+		},
+		"daon0": {
+			"type": "audio",
+			"path": "audio/daon0",
+			"systemId": "sound",
+			"duration": 1208,
+			"hint": {
+				"extensions": [
+					".aac",
+					".ogg"
+				]
+			}
+		},
+		"kan": {
+			"type": "audio",
+			"path": "audio/kan",
+			"systemId": "sound",
+			"duration": 1997,
+			"hint": {
+				"extensions": [
+					".aac",
+					".ogg"
+				]
+			}
+		},
+		"nc43463": {
+			"type": "audio",
+			"path": "audio/nc43463",
+			"systemId": "sound",
+			"duration": 57609,
+			"hint": {
+				"extensions": [
+					".aac",
+					".ogg"
+				]
+			}
+		},
+		"nc504899": {
+			"type": "audio",
+			"path": "audio/nc504899",
+			"systemId": "sound",
+			"duration": 20063,
+			"hint": {
+				"extensions": [
+					".aac",
+					".ogg"
+				]
+			}
+		},
+		"stonet1": {
+			"type": "audio",
+			"path": "audio/stonet1",
+			"systemId": "sound",
+			"duration": 720,
+			"hint": {
+				"extensions": [
+					".aac",
+					".ogg"
+				]
+			}
+		},
+		"tennis1": {
+			"type": "audio",
+			"path": "audio/tennis1",
+			"systemId": "sound",
+			"duration": 1278,
+			"hint": {
+				"extensions": [
+					".aac",
+					".ogg"
+				]
+			}
+		},
+		"tennis2": {
+			"type": "audio",
+			"path": "audio/tennis2",
+			"systemId": "sound",
+			"duration": 1254,
+			"hint": {
+				"extensions": [
+					".aac",
+					".ogg"
+				]
+			}
+		},
+		"ball": {
+			"type": "image",
+			"path": "image/ball.png",
+			"width": 370,
+			"height": 320
+		},
+		"blue1": {
+			"type": "image",
+			"path": "image/blue1.PNG",
+			"width": 1280,
+			"height": 720
+		},
+		"f": {
+			"type": "image",
+			"path": "image/f.jpg",
+			"width": 750,
+			"height": 417
+		},
+		"ff": {
+			"type": "image",
+			"path": "image/ff.jpg",
+			"width": 750,
+			"height": 413
+		},
+		"hand0": {
+			"type": "image",
+			"path": "image/hand0.png",
+			"width": 1280,
+			"height": 720
+		},
+		"hand1": {
+			"type": "image",
+			"path": "image/hand1.png",
+			"width": 1280,
+			"height": 720
+		},
+		"hand2": {
+			"type": "image",
+			"path": "image/hand2.png",
+			"width": 1280,
+			"height": 720
+		},
+		"i": {
+			"type": "image",
+			"path": "image/i.jpg",
+			"width": 750,
+			"height": 414
+		},
+		"k": {
+			"type": "image",
+			"path": "image/k.jpg",
+			"width": 750,
+			"height": 421
+		},
+		"kkk": {
+			"type": "image",
+			"path": "image/kkk.jpg",
+			"width": 750,
+			"height": 416
+		},
+		"kr": {
+			"type": "image",
+			"path": "image/kr.jpg",
+			"width": 750,
+			"height": 420
+		},
+		"lback": {
+			"type": "image",
+			"path": "image/lback.png",
+			"width": 1280,
+			"height": 720
+		},
+		"lback2": {
+			"type": "image",
+			"path": "image/lback2.png",
+			"width": 1280,
+			"height": 720
+		},
+		"lback3": {
+			"type": "image",
+			"path": "image/lback3.png",
+			"width": 1280,
+			"height": 720
+		},
+		"lback4": {
+			"type": "image",
+			"path": "image/lback4.png",
+			"width": 1280,
+			"height": 720
+		},
+		"left": {
+			"type": "image",
+			"path": "image/left.png",
+			"width": 1280,
+			"height": 720
+		},
+		"left2": {
+			"type": "image",
+			"path": "image/left2.png",
+			"width": 1280,
+			"height": 720
+		},
+		"n": {
+			"type": "image",
+			"path": "image/n.jpg",
+			"width": 750,
+			"height": 416
+		},
+		"nc490164kan": {
+			"type": "image",
+			"path": "image/nc490164kan.png",
+			"width": 370,
+			"height": 320
+		},
+		"red1": {
+			"type": "image",
+			"path": "image/red1.PNG",
+			"width": 1280,
+			"height": 720
+		},
+		"s": {
+			"type": "image",
+			"path": "image/s.jpg",
+			"width": 750,
+			"height": 421
+		},
+		"click": {
+			"type": "audio",
+			"path": "audio/click",
+			"systemId": "sound",
+			"duration": 1088,
+			"hint": {
+				"extensions": [
+					".aac",
+					".ogg"
+				]
+			}
+		},
+		"click2": {
+			"type": "audio",
+			"path": "audio/click2",
+			"systemId": "sound",
+			"duration": 1719,
+			"hint": {
+				"extensions": [
+					".aac",
+					".ogg"
+				]
+			}
+		},
+		"start": {
+			"type": "image",
+			"path": "image/start.PNG",
+			"width": 1280,
+			"height": 720
+		},
+		"main": {
+			"type": "script",
+			"path": "script/main.js",
+			"global": true
+		},
+		"modoru2": {
+			"type": "image",
+			"path": "image/modoru2.png",
+			"width": 1280,
+			"height": 720
+		},
+		"rule2": {
+			"type": "image",
+			"path": "image/rule2.png",
+			"width": 1280,
+			"height": 720
+		}
+	},
+	"environment": {
+		"sandbox-runtime": "3",
+		"nicolive": {
+			"supportedModes": [
+				"ranking"
+			],
+			"preferredSessionParameters": {
+				"totalTimeLimit": 130
+			}
+		}
+	}
+}
